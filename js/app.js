@@ -2,6 +2,7 @@
 console.log(a);    //undefined
 var a;
 
+
 console.log(a);    //undefined
 var a=12;
 console.log(a);   
